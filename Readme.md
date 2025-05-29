@@ -23,5 +23,5 @@ This is a simple RESTful API built with Go that serves user data stored in a JSO
 ## Getting Started
 
    ```bash
-   git clone https://github.com/yourusername/simple-go-rest-api.git
-   cd simple-go-rest-api
+   git clone https://github.com/anicse37/RestfullAPI
+   cd RestfulAPI
